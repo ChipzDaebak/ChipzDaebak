@@ -4,8 +4,8 @@
 - 📫 Please check my social media account at my website
 
 Wanna get in touch? Feel free to follow my social media:
-Instagram: https://instagram.com/vetche_vincent_cip/
-LinkedIn: https://www.linkedin.com/in/vincent-ciptadi-4076161a4/
+- Instagram: https://instagram.com/vetche_vincent_cip/
+- LinkedIn: https://www.linkedin.com/in/vincent-ciptadi-4076161a4/
 
 
 <!---
