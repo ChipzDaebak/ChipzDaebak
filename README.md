@@ -6,7 +6,7 @@
 Wanna get in touch? Feel free to follow my social media:
 - Instagram: https://instagram.com/vetche_vincent_cip/
 - LinkedIn: https://www.linkedin.com/in/vincent-ciptadi-4076161a4/
-- Portfolio: https://chipzdaebak.github.io/Vincent-Portfolio/
+- Portfolio: https://bit.ly/3C22Pa1
 
 
 <!---
