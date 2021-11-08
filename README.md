@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChipzDaebak
+- 👋 Hi, I'm Vincent Ciptadi
 - 👀 I’m interested in Android Developer and Data Science
 - 🌱 I’m currently learning in Computer Science BINUS University
 - 📫 Please check my social media account at my website
