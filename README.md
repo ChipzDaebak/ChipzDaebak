@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Vincent Ciptadi
-- 👀 I’m interested in Android Developer and Data Science
-- 🌱 I’m currently learning in Computer Science BINUS University
+- 👀 I’m interested in technology things and want to explore more
+- 🌱 I’m graduated from Computer Science BINUS University
 - 📫 Please check my social media account at my website
 
 Wanna get in touch? Feel free to follow my social media:
